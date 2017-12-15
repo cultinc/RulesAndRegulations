@@ -1,6 +1,10 @@
 # Rules and Regulations
 This is company rules and regulations of [Cult, Inc](https://cult.company).
 
+## Contents
+### Human Resources
+- [Rules of Employment](https://github.com/cultinc/RulesAndRegulations/blob/master/HumanResources/RulesOfEmployment.md)
+
 ## Contributing
 The main purpose of this repository is to continue to evolve our company regulations and making the best and the brightest workplace in the world.
 If there's something we can add or improve these documents, please make Pull Request freely!
