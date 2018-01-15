@@ -152,7 +152,7 @@
 1. 所定  
   [第27条](https://github.com/cultinc/RulesAndRegulations/blob/master/HumanResources/RulesOfEmployment.md#%E7%AC%AC27%E6%9D%A1)1項の定めにより勤務する。
 2. フレックスタイム制  
-  業務上の必要性が高く、前条第1項に基づき勤務することが適当でない場合に、所定の手続きにより適用する。詳細は[フレックスタイム勤務規程]()に定める。
+  業務上の必要性が高く、前条第1項に基づき勤務することが適当でない場合に、所定の手続きにより適用する。詳細は[フレックスタイム勤務規程](https://github.com/cultinc/RulesAndRegulations/blob/master/HumanResources/flextime.md)に定める。
 3. 裁量労働制  
   [法第38条の3](http://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=322AC0000000049#74)の労使協定に基づき適用する。この場合、所定労働日については当該労使協定で定めた時間労働したものと見做すとともに、始業時刻、終業時刻および1日の労働時間は当該社員の裁量により決定する。
 
@@ -304,7 +304,7 @@
 
 ### 第52条（非常時の超過勤務および休日勤務）
 1. 会社は、[法第33条](http://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=322AC0000000049#61)の規定に基づき、社員に対し、[第28条](https://github.com/cultinc/RulesAndRegulations/blob/master/HumanResources/RulesOfEmployment.md#%E7%AC%AC28%E6%9D%A1%E5%8B%A4%E5%8B%99%E5%BD%A2%E6%85%8B)に定める所定就業時間の延長（以下、「超過勤務」という）または[第34条](https://github.com/cultinc/RulesAndRegulations/blob/master/HumanResources/RulesOfEmployment.md#%E7%AC%AC34%E6%9D%A1%E4%BC%91%E6%97%A5)、[第35条](https://github.com/cultinc/RulesAndRegulations/blob/master/HumanResources/RulesOfEmployment.md#%E7%AC%AC35%E6%9D%A1%E7%89%B9%E5%88%A5%E4%BC%91%E6%97%A5)に定める休日における出勤（以下「休日勤務という」）を命じることがある。
-2. [第28条](https://github.com/cultinc/RulesAndRegulations/blob/master/HumanResources/RulesOfEmployment.md#%E7%AC%AC28%E6%9D%A1%E5%8B%A4%E5%8B%99%E5%BD%A2%E6%85%8B)2号のフレックスタイム制を適用する社員の超過勤務については、[フレックスタイム勤務規程]()に別途定める。
+2. [第28条](https://github.com/cultinc/RulesAndRegulations/blob/master/HumanResources/RulesOfEmployment.md#%E7%AC%AC28%E6%9D%A1%E5%8B%A4%E5%8B%99%E5%BD%A2%E6%85%8B)2号のフレックスタイム制を適用する社員の超過勤務については、[フレックスタイム勤務規程](https://github.com/cultinc/RulesAndRegulations/blob/master/HumanResources/flextime.md)に別途定める。
 
 ### 第53条（繁忙時等の超過勤務および休日勤務）
 1. 会社は、繁忙時その他業務の都合により必要がある場合は、[法第36条](http://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=322AC0000000049#67)の手続により、社員に対し超過勤務または休日勤務を命じることがある。
