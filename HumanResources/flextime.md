@@ -1,6 +1,6 @@
 # フレックスタイム勤務規定
 ### 第1条（目的）
-1. この規定は、就業規則（以下「規則」という）[第28条](https://github.com/cultinc/RulesAndRegulations/blob/master/HumanResources/RulesOfEmployment.md#%E7%AC%AC28%E6%9D%A1%E5%8B%A4%E5%8B%99%E5%BD%A2%E6%85%8B)2項に定めるフレックスタイム性について定めたものである。
+1. この規定は、就業規則（以下「規則」という）[第28条](https://github.com/cultinc/RulesAndRegulations/blob/master/HumanResources/RulesOfEmployment.md#%E7%AC%AC28%E6%9D%A1%E5%8B%A4%E5%8B%99%E5%BD%A2%E6%85%8B)2項に定めるフレックスタイム制について定めたものである。
 
 ### 第2条（適用範囲）
 フレックスタイム勤務は、[規則第28条](https://github.com/cultinc/RulesAndRegulations/blob/master/HumanResources/RulesOfEmployment.md#%E7%AC%AC28%E6%9D%A1%E5%8B%A4%E5%8B%99%E5%BD%A2%E6%85%8B)1項に定める所定勤務者のうち、業務上特に必要と認められる部署または社員に適用する。
